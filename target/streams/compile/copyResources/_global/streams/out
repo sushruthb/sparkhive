@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/people.csv,/Users/I504285/SparkEx/target/scala-2.13/classes/people.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/users.orc,/Users/I504285/SparkEx/target/scala-2.13/classes/users.orc)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/users.parquet,/Users/I504285/SparkEx/target/scala-2.13/classes/users.parquet)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/users.avro,/Users/I504285/SparkEx/target/scala-2.13/classes/users.avro)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/people.txt,/Users/I504285/SparkEx/target/scala-2.13/classes/people.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/employees.json,/Users/I504285/SparkEx/target/scala-2.13/classes/employees.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/people.json,/Users/I504285/SparkEx/target/scala-2.13/classes/people.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/kv1.txt,/Users/I504285/SparkEx/target/scala-2.13/classes/kv1.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/full_user.avsc,/Users/I504285/SparkEx/target/scala-2.13/classes/full_user.avsc)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/user.avsc,/Users/I504285/SparkEx/target/scala-2.13/classes/user.avsc)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/dir1/file3.json,/Users/I504285/SparkEx/target/scala-2.13/classes/dir1/file3.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/dir1/file1.parquet,/Users/I504285/SparkEx/target/scala-2.13/classes/dir1/file1.parquet)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/META-INF/services/org.apache.spark.sql.SparkSessionExtensionsProvider,/Users/I504285/SparkEx/target/scala-2.13/classes/META-INF/services/org.apache.spark.sql.SparkSessionExtensionsProvider)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/META-INF/services/org.apache.spark.sql.jdbc.JdbcConnectionProvider,/Users/I504285/SparkEx/target/scala-2.13/classes/META-INF/services/org.apache.spark.sql.jdbc.JdbcConnectionProvider)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/I504285/SparkEx/src/main/resources/dir1/dir2/file2.parquet,/Users/I504285/SparkEx/target/scala-2.13/classes/dir1/dir2/file2.parquet)[0m
