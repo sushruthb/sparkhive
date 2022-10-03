@@ -12,6 +12,7 @@ object HiveOperations {
       .builder()
       .appName("Spark Hive Example")
       .config("spark.sql.warehouse.dir", warehouseLocation)
+      .config("spark.sql.warehouse.dir",warehouseLocation)
       .enableHiveSupport()
       .getOrCreate()
 
