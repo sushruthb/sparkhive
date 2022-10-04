@@ -12,6 +12,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/I504285/SparkEx/target/scala-2.13/classes/users.orc[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Record$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/I504285/SparkEx/target/scala-2.13/classes/Record$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I504285/SparkEx/target/scala-2.13/classes/Sample.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Person.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/I504285/SparkEx/target/scala-2.13/classes/Person.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	SQLDataSourceExample$Person$.class[0m
@@ -28,6 +30,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/I504285/SparkEx/target/scala-2.13/classes/DataSetEx.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	RddToDf$$typecreator10$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/I504285/SparkEx/target/scala-2.13/classes/RddToDf$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I504285/SparkEx/target/scala-2.13/classes/Sample$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	RddToDf.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/I504285/SparkEx/target/scala-2.13/classes/RddToDf.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	SQLDataSourceExample$.class[0m
@@ -90,6 +94,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/I504285/SparkEx/target/scala-2.13/classes/SchemaPro$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	full_user.avsc[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/I504285/SparkEx/target/scala-2.13/classes/full_user.avsc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sample$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I504285/SparkEx/target/scala-2.13/classes/Sample$$typecreator10$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	user.avsc[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/I504285/SparkEx/target/scala-2.13/classes/user.avsc[0m
 [0m[[0m[0mdebug[0m] [0m[0m	SaveParquet.class[0m
